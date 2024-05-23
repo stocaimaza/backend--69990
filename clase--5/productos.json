@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Francia",
+    "description": "este es un nuevo producto test",
+    "price": 200,
+    "img": "Sin imagen",
+    "code": "abc124",
+    "stock": 25
+  }
+]
