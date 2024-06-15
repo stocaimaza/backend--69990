@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Mate",
+    "description": "El mas rico",
+    "price": "1500",
+    "img": "Sin Imagen",
+    "code": "abc123",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Cafe",
+    "description": "De Colombia",
+    "price": "2500",
+    "img": "Sin Imagen",
+    "code": "abc124",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Harina",
+    "description": "Molinos",
+    "price": "3500",
+    "img": "Sin Imagen",
+    "code": "abc125",
+    "stock": "150",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 3
+  },
+  {
+    "title": "Palpitos",
+    "description": "Los mas buscados",
+    "price": "500",
+    "img": "Sin Imagen",
+    "code": "a1",
+    "stock": "10000",
+    "category": "Almacen",
+    "status": true,
+    "thumbnails": [],
+    "id": 4
+  }
+]
