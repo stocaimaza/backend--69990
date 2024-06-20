@@ -1,0 +1,12 @@
+<h1>Aca vas a mostrar todos los productos</h1>
+<p>Este seria el punto numero 1</p>
+
+<div class="contenedorProductos">
+    {{#each productos}}
+        <div>
+            <p> {{this.title}} </p>
+            <p> {{this.description}} </p>
+            <p> {{this.price}} </p>
+        </div>
+    {{/each}}
+</div>

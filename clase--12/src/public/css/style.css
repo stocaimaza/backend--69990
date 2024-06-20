@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.contenedorProductos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contenedorProductos div {
+    border: 1px solid black;
+    padding: 25px;
+    
+}
