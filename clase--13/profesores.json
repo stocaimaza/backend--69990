@@ -1,0 +1,162 @@
+[
+    {
+        "nombre": "Juan Pérez",
+        "edad": 35,
+        "materias": [
+            "Matemáticas",
+            "Física"
+        ],
+        "grado": "Secundaria",
+        "correo": "juan.perez@example.com",
+        "telefono": "+1234567890",
+        "direccion": {
+            "calle": "Calle Principal",
+            "ciudad": "Ciudad Ejemplo",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "María López",
+        "edad": 40,
+        "materias": [
+            "Historia",
+            "Literatura"
+        ],
+        "grado": "Secundaria",
+        "correo": "maria.lopez@example.com",
+        "telefono": "+1987654321",
+        "direccion": {
+            "calle": "Avenida Central",
+            "ciudad": "Otra Ciudad",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Pedro Ramírez",
+        "edad": 38,
+        "materias": [
+            "Ciencias Naturales",
+            "Biología"
+        ],
+        "grado": "Primaria",
+        "correo": "pedro.ramirez@example.com",
+        "telefono": "+1122334455",
+        "direccion": {
+            "calle": "Calle del Bosque",
+            "ciudad": "Alguna Ciudad",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Ana Martínez",
+        "edad": 32,
+        "materias": [
+            "Inglés",
+            "Educación Física"
+        ],
+        "grado": "Primaria",
+        "correo": "ana.martinez@example.com",
+        "telefono": "+1567890123",
+        "direccion": {
+            "calle": "Avenida del Sol",
+            "ciudad": "Ciudad Principal",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Carlos Sánchez",
+        "edad": 45,
+        "materias": [
+            "Química",
+            "Tecnología"
+        ],
+        "grado": "Secundaria",
+        "correo": "carlos.sanchez@example.com",
+        "telefono": "+1654321098",
+        "direccion": {
+            "calle": "Calle Mayor",
+            "ciudad": "Otra Ciudad",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Luisa Gómez",
+        "edad": 37,
+        "materias": [
+            "Arte",
+            "Música"
+        ],
+        "grado": "Primaria",
+        "correo": "luisa.gomez@example.com",
+        "telefono": "+1789054321",
+        "direccion": {
+            "calle": "Avenida Nueva",
+            "ciudad": "Alguna Ciudad",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Javier Rodríguez",
+        "edad": 39,
+        "materias": [
+            "Economía",
+            "Geografía"
+        ],
+        "grado": "Secundaria",
+        "correo": "javier.rodriguez@example.com",
+        "telefono": "+1876543210",
+        "direccion": {
+            "calle": "Calle del Río",
+            "ciudad": "Ciudad Nueva",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Elena Fernández",
+        "edad": 34,
+        "materias": [
+            "Informática",
+            "Programación"
+        ],
+        "grado": "Secundaria",
+        "correo": "elena.fernandez@example.com",
+        "telefono": "+1987654321",
+        "direccion": {
+            "calle": "Avenida Principal",
+            "ciudad": "Otra Ciudad",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Martín Ruiz",
+        "edad": 36,
+        "materias": [
+            "Educación Cívica",
+            "Psicología"
+        ],
+        "grado": "Primaria",
+        "correo": "martin.ruiz@example.com",
+        "telefono": "+1543210987",
+        "direccion": {
+            "calle": "Calle de las Flores",
+            "ciudad": "Alguna Ciudad",
+            "pais": "Ejemplo"
+        }
+    },
+    {
+        "nombre": "Sofía Pérez",
+        "edad": 41,
+        "materias": [
+            "Idiomas",
+            "Literatura Universal"
+        ],
+        "grado": "Secundaria",
+        "correo": "sofia.perez@example.com",
+        "telefono": "+1765432109",
+        "direccion": {
+            "calle": "Avenida de los Árboles",
+            "ciudad": "Ciudad Principal",
+            "pais": "Ejemplo"
+        }
+    }
+]
